@@ -11,12 +11,14 @@
             "id": "f5803f582466ca38",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ctfshow_wp/WEB/附件/0037出题人不想跟你说话01.png"
+                "file": "网络安全专家提示词.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "0037出题人不想跟你说话01"
+              "icon": "lucide-file",
+              "title": "网络安全专家提示词"
             }
           },
           {
@@ -182,15 +184,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fda79d07d8a5429b",
+  "active": "f5803f582466ca38",
   "lastOpenFiles": [
+    "未命名.md",
+    "网络安全专家提示词.md",
+    "栅栏密码例子.png",
+    "战队实战总结.md",
+    "战队实战总结_副本.md",
+    "ctfshow_wp/WEB/附件/0037出题人不想跟你说话01.png",
     "ctfshow_wp/WEB/附件/0037出题人不想跟你说话02.png",
     "ctfshow_wp/WEB/附件/0037出题人不想跟你说话03.png",
-    "ctfshow_wp/WEB/附件/0037出题人不想跟你说话01.png",
     "ctfshow_wp/WEB/02内部赛/0037出题人不想跟你说话.jpg->提权失败.md",
     "buuoj_wp/GKCTF2020/web/EZ三剑客-EzNode.md",
     "buuoj_wp/GKCTF2020/PWN/Domo-》无wp.md",
-    "未命名.md",
     "未命名.base",
     "未命名 2.base",
     "未命名 1.base",
@@ -210,10 +216,8 @@
     "ctfhub_wp/技能树/基础知识/比赛形式.md",
     "ctfhub_wp/技能树/基础知识/竞赛模式.md",
     "ctfhub_wp/技能树/基础知识/CTF简介.md",
-    "战队实战总结.md",
     "ctfhub_wp/技能树/基础知识",
     "ctfhub_wp",
-    "战队实战总结_副本.md",
     "ctfshow_wp/WEB/00签到题/0015web14-》SQL注入.md",
     "ctfshow_wp/WEB/00签到题/0012web12-》php的eval函数：任意php代码执行.md",
     "adworld_xctf_wp/pwn/0002hello_pwn.md",
@@ -223,7 +227,6 @@
     "adworld_xctf_wp/zz附件/new-easypwn07.png",
     "adworld_xctf_wp/zz附件/new-easypwn06.png",
     "adworld_xctf_wp/zz附件/new-easypwn05.png",
-    "adworld_xctf_wp/zz附件/new-easypwn04.png",
     "adworld_xctf_wp/pwn/0001new-easypwn.md",
     "adworld_xctf_wp/pwn/0001get_shell.md",
     "buuoj_wp/GKCTF2020/crypto/小学生的密码学.md",
