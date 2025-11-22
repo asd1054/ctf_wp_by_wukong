@@ -1,0 +1,11 @@
+# Command: create-todos
+# Description: Add contextual TODO comments based on analysis results
+# Category: development
+# Version: 1
+# Author: 10169
+
+description = "Add contextual TODO comments based on analysis results"
+
+prompt = """
+I'll help add contextual TODO comments based on previous analysis results like security scans, code reviews, or architecture assessments. I'll place TODOs with priority levels, estimated effort, and clear descriptions. Integration with other commands includes: After /security-scan (security TODOs), After /review (quality TODOs), After /predict-issues (preventive TODOs), After /find-todos (organized TODOs). I'll ensure TODOs follow consistent formatting and link to relevant documentation or issues.
+"""
